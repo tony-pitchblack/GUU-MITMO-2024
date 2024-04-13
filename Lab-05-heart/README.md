@@ -5,7 +5,7 @@
 Age, Sex, ChestPainType, RestingBP, Cholesterol, FastingBS,
 RestingECG, MaxHR, ExerciseAngina, Oldpeak, ST_Slope,
 HeartDisease
-*Зависимая переменная:* HearDisease
+*Зависимая переменная:* HeartDisease
 *Метод ансамблирования:* Random Forest
 
 1. Данные были разделены на двe выборки: обучающую 85% и тестовую 15%. Предварительный анализ обнаружил примерно равные доли классов.
