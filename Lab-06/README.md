@@ -15,4 +15,4 @@ Age, Sex, ChestPainType, RestingBP, Cholesterol, FastingBS, </br> RestingECG, Ma
 
 1. Данные были разделены на двe выборки: обучающую 85% и тестовую 15%. Предварительный анализ обнаружил примерно равные доли классов.
 
-2. 
+3-4. Accuracy лучшего SVC составила 81%, в то время как accuracy Random Forest составила 86%. 
